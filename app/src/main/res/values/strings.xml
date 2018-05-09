@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="fade_in">fade in</string>
+    <string name="blink">blink</string>
+    <string name="fade_out">fade out</string>
+    <string name="crossfading">cross fading</string>
+    <string name="zoom_in">ZOOM IN</string>
+    <string name="zoom">ZOOM</string>
+    <string name="zoom_out">ZOOM OUT</string>
+    <string name="rotate">ROTATE</string>
+    <string name="move">MOVE</string>
+    <string name="slide_up">SLIDE UP</string>
+    <string name="slide_down">SLIDE DOWN</string>
+    <string name="bounce">BOUNCE</string>
+    <string name="sequential">Sequential</string>
+    <string name="together">Together</string>
+    
+</resources>
